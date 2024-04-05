@@ -4,7 +4,7 @@
 
 body.dark-bg,
 body.default-asus {
-    background-color: #282828;
+    background-color: #181818;
 }
 body.wood{
     background: url("../img/bg/wood.jpg") repeat scroll center top transparent;
@@ -247,6 +247,8 @@ div.RT-AC51U,
 div.RT-AC54U,
 div.RT-N11P,
 div.RT-N11PB1,
+div.RT-N12plus,
+div.RT-N13UB1,
 div.RT-N14U,
 div.RT-N56U,
 div.RT-N56UB1,
@@ -270,6 +272,7 @@ div.maker {
 }
 div.WT3020A,
 div.WT3020H,
+div.WT3020H16M,
 div.nexx {
     background-image: url("../img/logo/nexx.png") !important;
     width: 220px !important;
