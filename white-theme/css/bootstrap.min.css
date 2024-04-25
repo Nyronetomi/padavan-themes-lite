@@ -1261,9 +1261,9 @@ table {
 }
 .table th,
 .table td {
-    padding: 5px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
     line-height: 18px;
     text-align: left;
     vertical-align: top;
